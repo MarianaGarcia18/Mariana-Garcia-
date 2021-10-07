@@ -1,1 +1,2 @@
-# Mariana-Garcia-
+Lo aprendido en el modulo 0
+Lo primero que yo aprendí es como buscar mi carpeta que tenga el nombre mariana con cd/d, despues de que me de le voy a dar cd mariana y ya va a parecer mi carpeta con nombre,despues cree una crapeta con mkdi aprendi-geek y la busque con cd aprendiz-cd, depsues cree otrra carpeta llamda ejercicio-uno y asedi a ella con cd ejercicio-uno, despues cree un archivo con nao index.html para pegar el codigo que aparecia en el modulo 0.
